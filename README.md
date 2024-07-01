@@ -114,10 +114,6 @@ Contributions to the Rasa Flow VSCode Extension are welcome! Please feel free to
 
 These improvements would significantly enhance the functionality and user experience of the Rasa Flow VSCode Extension, making it an even more powerful tool for Rasa developers.
 
-## License
-
-[MIT License](LICENSE)
-
 ## Support
 
 If you encounter any problems or have any suggestions, please open an issue in the GitHub repository.
