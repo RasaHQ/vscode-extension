@@ -1,6 +1,6 @@
 # Rasa Flow VSCode Extension
 
-## Description
+## Early Prototype!
 
 The Rasa Flow VSCode Extension is a powerful tool designed to enhance the development experience for Rasa chatbot creators. This extension provides intelligent autocompletion, hover information, validation, and visualization features for Rasa flow YAML files, making it easier and faster to create and manage complex conversational flows.
 
